@@ -1,16 +1,16 @@
 * [[Activer SUDO sur Debian]]
 * [[Afficher la date du jour dans le bandeau]]
-* Ajouter de la swap sans toucher au partition
-* Ajouter une Police de caractère à Java
-* Authentification SSH par certificat
-* Avoir plusieurs adresses IP sur la même interface
-* Changer le nom d'une machine
-* Clé USB en lecture seule
-* Comment installer une alternative
-* Comparaisons avec diff
-* Configuration firewall IPTables
-* Configuration réseau sur VM Linux
-* Configuration Swappiness
+* [[Ajouter de la swap sans toucher au partition]]
+* [[Ajouter une police de caractere a Java]]
+* [[Authentification SSH par certificat]]
+* [[Avoir plusieurs adresses IP sur la meme interface]]
+* [[Changer le nom d'une machine]]
+* [[Cle USB en lecture seule]]
+* [[Comment installer une alternative]]
+* [[Comparaisons avec diff]]
+* [[Configuration firewall IPTables]]
+* [[Configuration reseau sur VM Linux]]
+* [[Configuration Swappiness]]
 * Connexion VPN Rackspace depuis Linux
 * Créer un conteneur chiffré
 * Créer un partition chiffré sur une clé USB
