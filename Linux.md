@@ -40,6 +40,7 @@
 * [[Monter une image ISO]]
 * [[MTA est long à démarrer]]
 * [[Nettoyer sa Debian]]
+* [[NFS au travers de SSH]]
 * [[Problème de politique de sécurité X11]]
 * [[Rechercher dans les fichiers]]
 * [[Récupérer le chemin d'un script bash]]
