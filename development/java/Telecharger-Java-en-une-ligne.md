@@ -1,3 +1,4 @@
+<!-- --- title: Java / Télécharger Java en une ligne -->
 Pour télécharger java en une ligne de commande avec `wget` :
 
 ``` sh

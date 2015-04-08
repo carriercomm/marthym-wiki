@@ -1,3 +1,4 @@
+<!-- --- title: Java / Installer Java Sun JDK sous Debian -->
 C'est très simple mais faut avoir les bons dépôt activé.
 
 ## Vérifier la liste de ces dépôts
