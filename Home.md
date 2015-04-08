@@ -9,10 +9,9 @@
  * [[Eclipse]]
  * [[Git]]
  * [[Oracle]]
- * [[security]]
- * [[soapui]]
  * [[VMWare]]
  
+### Hors catégorie
  * [[Logstach config for Metrics]]
  * [[Optimisation de PNG]]
  * [[Squid refresh pattern]]
