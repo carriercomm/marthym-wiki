@@ -8,7 +8,7 @@
 ## Tools
  * [[Eclipse]]
  * [[Git]]
- * graphic
+ * [[Optimisation de PNG]]
  * ivy
  * Logstach config for Metrics
  * [[Oracle]]
