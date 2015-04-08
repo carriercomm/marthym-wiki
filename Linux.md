@@ -49,5 +49,5 @@
 * [[Télé-charger un répertoire entier via FTP|Tele-charger un repertoire entier via FTP]]
 * [[Trouver les gros fichiers]]
 * [[Trouver les UUID de mes partitions]]
-* [[Trucs & Astuce : SoapUI]]
+* [[Trucs & Astuce : SoapUI|Trucs-et-Astuce--SoapUI]]
 * [[WGET avec un proxy]]
