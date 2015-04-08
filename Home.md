@@ -8,12 +8,12 @@
 ## Tools
  * [[Eclipse]]
  * [[Git]]
- * [[Optimisation de PNG]]
- * ivy
- * Logstach config for Metrics
  * [[Oracle]]
- * security
- * soapui
- * Squid refresh pattern
- * Squid: StoreId rewrite (dé-duplication)
+ * [[security]]
+ * [[soapui]]
  * [[VMWare]]
+ 
+ * [[Logstach config for Metrics]]
+ * [[Optimisation de PNG]]
+ * [[Squid refresh pattern]]
+ * [[Squid StoreId rewrite]]
