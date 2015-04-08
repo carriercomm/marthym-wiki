@@ -7,7 +7,7 @@
 
 ## Tools
  * [[Eclipse]]
- * git
+ * [[Git]]
  * graphic
  * ivy
  * Logstach config for Metrics
