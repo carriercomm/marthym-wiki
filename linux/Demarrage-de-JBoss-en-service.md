@@ -4,7 +4,7 @@ machine ou pour que le JBoss se lance tout seul au démarrage.
 ## Script init.d
 Il faut commencé par créer un script d'init. Pour cela on peut se servir de celui se trouvant à la fin de la page.
 
-Attention de bien penser à changer la variable ''~CAMELEON_DIR'' avec le bon chemin d'installation de JBoss.
+Attention de bien penser à changer la variable ''CAMELEON_DIR'' avec le bon chemin d'installation de JBoss.
 
 ## Installation
 Ensuite on installe le script. Pour cela, en root :
@@ -60,4 +60,4 @@ service cameleon restart
 ## Files
 [[include:doc/init-d-jboss.sh]]
 
-<!-- --- tags: linux, jboss -->
+<!-- --- tags: linux, server, jboss -->

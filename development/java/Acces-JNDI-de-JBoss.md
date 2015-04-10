@@ -35,4 +35,4 @@ while (w_list.hasMoreElements()) {
 
 **ATTENTION Penser à faire un remove sur l'EJB à la fin pour ne pas générer un aspirateur de connexion, le Corbas étant limité !**
 
-<!-- --- tags: java -->
+<!-- --- tags: java, server, jboss -->

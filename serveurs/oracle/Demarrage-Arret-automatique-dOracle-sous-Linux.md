@@ -1,3 +1,4 @@
+<!-- --- title: Oracle / Démarrage/Arrêt automatique d'Oracle sous Linux -->
 Modifier le fichier /etc/oratab (ou /var/opt/oracle selon install)
 Ajouter `<SID>:<ORACLE_HOME>:Y` le "Y" indiquant si la base doit être ou non démarré par "dbstart" et "dbshut".
 

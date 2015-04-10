@@ -8,4 +8,4 @@ Pour le rendre plainement opérationnel il faut ajouté l'option `rewriteBatched
 jdbc:mysql://127.0.0.1/?rewriteBatchedStatements=true
 ~~~
 
-<!-- --- tags: java, mysql -->
+<!-- --- tags: java, server, mysql -->

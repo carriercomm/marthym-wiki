@@ -10,9 +10,9 @@
  * [[Linux]]
 
 ## Serveurs
-* [[Hôtes virtuels SSL multiple|Hotes-virtuels-SSL-multiple]]
-* [[jboss]]
-* [[mysql]]
+* [[Hotes virtuels SSL multiple]]
+* [[jBoss]]
+* [[MySQL]]
 * [[Oracle]]
 * [[teradata]]
 * [[tomcat]]
