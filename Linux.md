@@ -51,3 +51,8 @@
 * [[Trouver les UUID de mes partitions]]
 * [[Trucs & Astuce : SoapUI|Trucs-et-Astuce--SoapUI]]
 * [[WGET avec un proxy]]
+
+## Gnome-Shell
+* [[Screencast avec Gnome-Shell]]
+
+<!-- --- tags: linux -->
