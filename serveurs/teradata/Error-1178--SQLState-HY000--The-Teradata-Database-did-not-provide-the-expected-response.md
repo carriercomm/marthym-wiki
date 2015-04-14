@@ -1,3 +1,4 @@
+<!-- --- title: Teradata / [Error 1178] [SQLState HY000] The Teradata Database did not provide the expected response -->
 ## Symptômes
 
 ~~~

@@ -8,10 +8,8 @@
 * [[Fusionner les espaces libre contigus]]
 * [[Gestion des dates Oracle]]
 * [[Lister les locks sur Oracle]]
-* [[lock.sql]]
-* [[Où télécharger les JDK ?]]
-* [[Requête Oracle avec Variables Liées]]
-* [[Tracer une requête Oracle]]
+* [[Requête Oracle avec Variables Liées|Requete-Oracle-avec-Variables-Liees]]
+* [[Tracer une requête Oracle|Tracer une requete Oracle]]
 * [[Utiliser DataPump en ligne de commande]]
 
 
