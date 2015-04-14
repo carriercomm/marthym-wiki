@@ -28,7 +28,7 @@ NOTE: Toutes les manip sont effectuée en super-utilisateur. Vérifiez toutes le
 si vous vous trompé de partition c'est mort !
 
 ## Partitionnement d'une clé USB
-[[img/luks-01.png|align=center]]
+[[.img/luks-01.png|align=center]]
 
 Commençons par savoir sur quel périphérique est votre clé :
 

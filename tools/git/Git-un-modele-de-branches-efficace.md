@@ -15,10 +15,10 @@ C’est là que Git intervient en proposant une gestion des branches simple et r
 ## Git, peux-tu faire quelque chose pour nous ?
 
 Oui, il le peut, en nous permettant de respecter ce schéma facilement:
-[[img/brancheGit01.png|align=center]]
+[[.img/brancheGit01.png|align=center]]
 
 ## Le master
-[[img/brancheGit02.png|align=center]]
+[[.img/brancheGit02.png|align=center]]
 
 Le master correspond à la version de production : Personne ne travaille directement sur la production mais il est 
 possible, en permanence, de créer une branche à partir du master (pour des corrections de bug urgents par exemple).
@@ -138,7 +138,7 @@ git branch -d release-x.y
 
 ## Corrections de bugs en production
 
-[[img/brancheGit03.png|align=center]]
+[[.img/brancheGit03.png|align=center]]
 
 _Branche réalisée à partir de : master
 La branche sera réintroduite dans : master et develop_

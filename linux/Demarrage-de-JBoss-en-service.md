@@ -58,6 +58,6 @@ service cameleon restart
 ```
 
 ## Files
-[[include:doc/init-d-jboss.sh]]
+[[include:.doc/init-d-jboss.sh]]
 
 <!-- --- tags: linux, server, jboss -->

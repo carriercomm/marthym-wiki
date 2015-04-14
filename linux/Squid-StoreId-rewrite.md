@@ -25,7 +25,7 @@ Pour palier ce problème dans Squid 3.4 (pas avant) il est possible de re-écrir
 [[StoreId|http://wiki.squid-cache.org/Features/StoreID]]. Pour cela, il faut commence par récupérer le programme
 perl [[store-id.pl|http://pastebin.ca/2422099]] que je rajoute ici au cas où :
 
-[[include:doc/store-id.pl]]
+[[include:.doc/store-id.pl]]
 
 Attention, ce fichier **doit être exécutable** !
 Ensuite dans le fichier squid.conf on active la mise en cache des query-string en remplaçant :
