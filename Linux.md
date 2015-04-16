@@ -25,7 +25,6 @@
 * [[Effacer définitivement un disque dur|Effacer definitivement un disque dur]]
 * [[Envoyer POST avec cURL]]
 * [[Formater simplement un XML]]
-* [[gnome-shell segfault at 84 ip libcogl.so.12.1.1]]
 * [[Installer une imprimante IPP]]
 * [[Lancer TCPDump en non root]]
 * [[Lister les fichiers d'une arborescence|Lister les fichiers d-une arborescence]]
@@ -52,7 +51,11 @@
 * [[Trucs & Astuce : SoapUI|Trucs-et-Astuce--SoapUI]]
 * [[WGET avec un proxy]]
 
+## Bash
+* [[Lecture d'arguments en bash]]
+
 ## Gnome-Shell
+* [[gnome-shell segfault at 84 ip libcogl.so.12.1.1]]
 * [[Screencast avec Gnome-Shell]]
 
 <!-- --- tags: linux -->
