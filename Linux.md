@@ -52,6 +52,7 @@
 * [[Télé-charger un répertoire entier via FTP|Tele-charger un repertoire entier via FTP]]
 * [[Trouver les gros fichiers]]
 * [[Trouver les UUID de mes partitions]]
+* [[Unifier des PDFs]]
 
 ## Divers
 * [[Cle USB en lecture seule]]
